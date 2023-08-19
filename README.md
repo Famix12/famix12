@@ -38,11 +38,6 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
-
-<h5 align="left">🧑🏽‍💻 Web :</h5>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -66,21 +61,12 @@
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<h5 align="left">🕵🏽 UX/UI & Graphic Design:</h5>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
 
-###
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
