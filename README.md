@@ -42,8 +42,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
